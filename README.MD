@@ -6,5 +6,5 @@ Reproduzindo uma Calculadora com JavaScript e HTML, esse Projeto serviu para pra
 
 ## Screenshots
 
-![App Screenshot]
+![App Screenshot](https://github.com/FilipeeOliveira/Calculator-Js/blob/main/Screenshot.png)
 
